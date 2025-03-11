@@ -13,7 +13,7 @@ This report provides an in-depth analysis of key healthcare metrics for patients
 - **Out-of-Pocket** 
 - **Total Room Charges** 
 
-# Power BI Features in Healthcare Data Report
+## Power BI Features in Healthcare Data Report
 
 ## Visualization Types
 The report utilizes a variety of visualizations to present healthcare data effectively:
