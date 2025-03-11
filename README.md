@@ -1,3 +1,45 @@
+# Healthcare Data Report
+
+## Overview
+
+This report provides an in-depth analysis of key healthcare metrics for patients located in the city. It includes data on total billing amounts, medication costs, treatment costs, insurance coverage, out-of-pocket expenses, and room charges. The report also breaks down these metrics by department, procedure, and diagnosis while distinguishing between emergency, inpatient, and outpatient services.
+
+## Key Metrics
+
+- **Total Billing Amount** 
+- **Total Medication Cost** 
+- **Total Treatment Costs** 
+- **Total Insurance Covered** 
+- **Out-of-Pocket** 
+- **Total Room Charges** 
+
+# Power BI Features in Healthcare Data Report
+
+## Visualization Types
+The report utilizes a variety of visualizations to present healthcare data effectively:
+
+### 1. Card Visuals
+- **Card Visual**: Used to display key aggregated metrics such as Total Billing Amount (£3.36M), Total Medication Cost (£546.04K), Total Treatment Costs (£2.63M), Total Insurance Covered (£2.23M), Out-of-Pocket (£1.13M), and Total Room Charges (£179.63K).
+
+### 2. Bar and Column Charts
+- **Clustered Bar Chart**
+  - **Total Billing Amount by Department**: Displays departmental billing amounts, highlighting Cardiology (£846.93K), Orthopedics (£813.25K), and General Surgery (£783.25K).
+  
+- **Clustered Column Chart**
+  - **Total Billing Amount by Procedure**: Demonstrates billing amounts per procedure, with X-Ray (£1.05M) having the highest amount.
+
+### 3. Stacked Bar Chart
+- **100% Stacked Bar Chart**
+  - **Total Billing Amount by Diagnosis and Service Type**: Shows the distribution of billing amounts across various diagnoses and service types, detailing for conditions like Hypertension in Outpatient (£716.12K), Emergency (£295.62K), and Inpatient (£316.48K) services.
+
+### 4. Insights Visual
+- **Insights**: Provides calculated insights, such as X-Ray having the highest billing amount (£1.05M) being 153.89% higher than Blood Test, and the highest average billing amount in Outpatient services at £332.60K.
+
+## Filters
+- **Location Filter**: All visuals are filtered to show data specifically for patients located in the city .
+
+This comprehensive set of Power BI features helps in efficiently analyzing and visualizing critical healthcare data to derive actionable insights.  
+
 # Awesome Chocolates Power BI Report Summary
 
 Chocolates\' performance metrics, focusing on total sales, shipments,costs, and profit margins. Key visual and tabular data representations include overall company performance, product details, monthly profit trends, and individual salespersons\' contributions.
